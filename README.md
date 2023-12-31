@@ -16,12 +16,6 @@ Ce programme, bien que dépourvu d'interface graphique, représente une impléme
 </ul>
 
 
-
-
-
-
-
-
 <h2>Comment Utiliser le Programme</h2>
 <h3>Clonez ce référentiel sur votre machine locale</h3>
 
