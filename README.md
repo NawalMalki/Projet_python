@@ -28,6 +28,9 @@ Ce programme, bien que dépourvu d'interface graphique, représente une impléme
 <code>git clone https://github.com/votre-utilisateur/algorithmique-avancee</code>
 
 
+<h4>Encadré par : Mr Toumi Bouchentouf</h4>
+
+
 <h3>Exécutez le programme en utilisant Python</h3>
 
 <code>python main.py</code>
